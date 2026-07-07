@@ -178,10 +178,3 @@ explosive price behaviour compatible with a bubble.
 ```
 
 ---
-
-
----
-
-## License
-
-MIT -- see `LICENSE`.
