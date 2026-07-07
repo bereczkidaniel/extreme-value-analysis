@@ -159,11 +159,7 @@ explosive price behaviour compatible with a bubble.
 ```
 .
 ├── README.md                    # This file
-├── LICENSE                      # MIT
-├── requirements.txt             # Python dependencies
-├── .gitignore
 ├── data_download.py             # yfinance downloader -> data/stock_prices.csv
-├── generate_sample_figures.py   # Creates illustrative README figures
 ├── stock_analysis.Rmd           # Main analysis (R Markdown)
 ├── data/
 │   └── stock_prices.csv         # (gitignored; produced by data_download.py)
